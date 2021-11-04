@@ -1,3 +1,5 @@
+This is my personal fork of [GideonWolfe/Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal).
+
 # Zathura-Pywal
 ![alt text](https://i.imgur.com/ETGxlfY.jpg)
 ![alt text](https://i.imgur.com/qCxiPjD.png)
